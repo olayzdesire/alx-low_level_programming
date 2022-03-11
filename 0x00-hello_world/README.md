@@ -4,4 +4,6 @@ gcc -E $CFILE -o c  (Task0: Running a C file through preprocessor and saving out
 gcc -c $CFILE  (Task1: Running a C file with a .c extension)
 #!/bin/bash 
 gcc -S $CFile (Task2: Running a C file with a .s extension) 
+#!/bin/bash
+gcc $CFILE -o cisfun (Task3: Creating an output file 'cisfun') 
 
