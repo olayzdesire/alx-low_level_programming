@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main -  prints all alphabets in reverse 
+ * main - prints all alphabets in reverse 
  * Description: using putchar
  * Return: 0
  */
