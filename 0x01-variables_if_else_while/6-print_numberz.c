@@ -1,6 +1,7 @@
 #include <stdio.h>
+
 /**
- * main -  prints all numbers in base 10
+ * main -  prints all numbers in 10
  * Description: using putchar
  * Return: 0
  */
@@ -13,5 +14,5 @@ int main(void)
 		putchar(n);
 	}
 	putchar('\n');
-	return (0);
-}	
+	return(0);
+}
