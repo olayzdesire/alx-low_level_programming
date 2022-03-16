@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * print_sign - used to print the sign of numbers.
+ * print_sign - used to print the sign of numbers
  * Return: 0, if 0, 1 if positive, -1 if negative
- * @n: variable used.
+ * @n: variable used
  *
  */
 int print_sign(int n)
