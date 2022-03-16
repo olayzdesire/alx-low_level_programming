@@ -5,7 +5,6 @@
  * Description: prints alphabet 10times
  */
 void print_alphabet_x10(void)
-nclude "main.h"
 {
 		int i;
 		char ch;
@@ -17,8 +16,8 @@ nclude "main.h"
 			{	
 				_putchar(ch);
 				ch++;
-															}
-															_putchar('\n');
+			} 
+			_putchar('\n');
 			i++;
 		}
 }
