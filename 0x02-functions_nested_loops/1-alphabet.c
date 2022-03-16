@@ -3,7 +3,6 @@
 /**
 * main - Prints alphabets, then new line
 * Description: uses for function
-* Return: 0
 */
 void print_alphabet(void)
 {
